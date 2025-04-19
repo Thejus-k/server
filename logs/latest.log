@@ -1,5 +1,5 @@
-[13:51:24] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
-[13:51:24] [main/INFO]: Loading 71 mods:
+[13:57:07] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
+[13:57:07] [main/INFO]: Loading 71 mods:
 	- chunky 1.4.27
 	- clumps 22.0.0.1
 	- fabric-api 0.119.2+1.21.4
@@ -81,35 +81,34 @@
 	- veinminer 2.4.2
 	   |-- de_miraculixx_core_dev 2.4.2
 	   \-- fabric-permissions-api-v0 0.3.3
-[13:51:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/data/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[13:51:25] [main/INFO]: Compatibility level set to JAVA_17
-[13:51:25] [main/INFO]: Compatibility level set to JAVA_18
-[13:51:25] [main/INFO]: Compatibility level set to JAVA_21
-[13:51:25] [main/INFO]: Loaded configuration file for Lithium: 142 options available, 1 override(s) found
-[13:51:27] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
-[13:51:27] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13:51:39] [main/INFO]: Initializing Silk
-[13:51:39] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
-[13:51:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:51:40] [DefaultDispatcher-worker-3/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
-[13:51:45] [main/INFO]: Loaded 1370 recipes
-[13:51:45] [main/INFO]: Loaded 1484 advancements
-[13:51:45] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.820 ms
-[13:51:45] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
-[13:51:45] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[13:51:45] [Server thread/INFO]: Loading properties
-[13:51:45] [Server thread/INFO]: Default game type: SURVIVAL
-[13:51:45] [Server thread/INFO]: Generating keypair
-[13:51:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:51:45] [Server thread/INFO]: Using epoll channel type
-[13:51:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:51:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:51:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:51:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:51:46] [Server thread/INFO]: Preparing level "world"
-[13:51:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:51:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:51:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:51:47] [Server thread/INFO]: Time elapsed: 1064 ms
-[13:51:47] [Server thread/INFO]: Done (1.811s)! For help, type "help"
-[13:52:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:57:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/data/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[13:57:08] [main/INFO]: Compatibility level set to JAVA_17
+[13:57:08] [main/INFO]: Compatibility level set to JAVA_18
+[13:57:08] [main/INFO]: Compatibility level set to JAVA_21
+[13:57:09] [main/INFO]: Loaded configuration file for Lithium: 142 options available, 1 override(s) found
+[13:57:10] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[13:57:10] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13:57:22] [main/INFO]: Initializing Silk
+[13:57:22] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
+[13:57:23] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:57:24] [DefaultDispatcher-worker-2/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
+[13:57:28] [main/INFO]: Loaded 1370 recipes
+[13:57:28] [main/INFO]: Loaded 1484 advancements
+[13:57:28] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.671 ms
+[13:57:28] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[13:57:28] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:57:28] [Server thread/INFO]: Loading properties
+[13:57:28] [Server thread/INFO]: Default game type: SURVIVAL
+[13:57:28] [Server thread/INFO]: Generating keypair
+[13:57:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:57:28] [Server thread/INFO]: Using epoll channel type
+[13:57:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:57:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:57:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:57:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:57:29] [Server thread/INFO]: Preparing level "world"
+[13:57:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:57:30] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:57:30] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:57:30] [Server thread/INFO]: Time elapsed: 999 ms
+[13:57:30] [Server thread/INFO]: Done (1.717s)! For help, type "help"

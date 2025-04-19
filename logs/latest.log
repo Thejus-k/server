@@ -1,0 +1,116 @@
+[13:46:44] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
+[13:46:44] [main/INFO]: Loading 71 mods:
+	- chunky 1.4.27
+	- clumps 22.0.0.1
+	- fabric-api 0.119.2+1.21.4
+	   |-- fabric-api-base 0.4.54+b47eab6b04
+	   |-- fabric-api-lookup-api-v1 1.6.86+b1caf1e904
+	   |-- fabric-biome-api-v1 15.0.6+b1c29d8e04
+	   |-- fabric-block-api-v1 1.0.31+7feeb73304
+	   |-- fabric-block-view-api-v2 1.0.20+9c49cc8c04
+	   |-- fabric-blockrenderlayer-v1 2.0.8+7feeb73304
+	   |-- fabric-client-tags-api-v1 1.1.29+20ea1e2304
+	   |-- fabric-command-api-v1 1.2.62+f71b366f04
+	   |-- fabric-command-api-v2 2.2.41+e496eb1504
+	   |-- fabric-commands-v0 0.2.79+df3654b304
+	   |-- fabric-content-registries-v0 9.1.19+25d1a67604
+	   |-- fabric-convention-tags-v1 2.1.20+7f945d5b04
+	   |-- fabric-convention-tags-v2 2.14.1+1edcd29104
+	   |-- fabric-crash-report-info-v1 0.3.6+7feeb73304
+	   |-- fabric-data-attachment-api-v1 1.6.2+e99da0f704
+	   |-- fabric-data-generation-api-v1 22.3.1+0f4e5f5504
+	   |-- fabric-dimensions-v1 4.0.10+7feeb73304
+	   |-- fabric-entity-events-v1 2.0.15+62245bef04
+	   |-- fabric-events-interaction-v0 4.0.4+a4eebcf004
+	   |-- fabric-game-rule-api-v1 1.0.63+7d48d43904
+	   |-- fabric-item-api-v1 11.3.0+ee91fa1f04
+	   |-- fabric-item-group-api-v1 4.2.2+fcb9601404
+	   |-- fabric-key-binding-api-v1 1.0.57+7d48d43904
+	   |-- fabric-keybindings-v0 0.2.55+df3654b304
+	   |-- fabric-lifecycle-events-v1 2.5.4+bf2a60eb04
+	   |-- fabric-loot-api-v2 3.0.38+3f89f5a504
+	   |-- fabric-loot-api-v3 1.0.26+203e6b2304
+	   |-- fabric-message-api-v1 6.0.25+7feeb73304
+	   |-- fabric-model-loading-api-v1 4.3.0+ae23723504
+	   |-- fabric-networking-api-v1 4.4.0+db5e668204
+	   |-- fabric-object-builder-api-v1 18.0.14+38b0d59804
+	   |-- fabric-particles-v1 4.0.14+7feeb73304
+	   |-- fabric-recipe-api-v1 8.1.1+640e77ae04
+	   |-- fabric-registry-sync-v0 6.1.11+4a9c1ece04
+	   |-- fabric-renderer-api-v1 5.0.3+50f0feb204
+	   |-- fabric-renderer-indigo 2.0.3+50f0feb204
+	   |-- fabric-rendering-data-attachment-v1 0.3.58+73761d2e04
+	   |-- fabric-rendering-fluids-v1 3.1.19+7feeb73304
+	   |-- fabric-rendering-v1 10.2.1+0d31b09f04
+	   |-- fabric-resource-conditions-api-v1 5.0.13+203e6b2304
+	   |-- fabric-resource-loader-v0 3.1.1+360374ac04
+	   |-- fabric-screen-api-v1 2.0.38+7feeb73304
+	   |-- fabric-screen-handler-api-v1 1.3.118+7feeb73304
+	   |-- fabric-sound-api-v1 1.0.32+7feeb73304
+	   |-- fabric-tag-api-v1 1.0.7+7d48d43904
+	   |-- fabric-transfer-api-v1 5.4.9+efa825c904
+	   \-- fabric-transitive-access-wideners-v1 6.3.2+56e78b9b04
+	- fabric-language-kotlin 1.13.2+kotlin.2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.20
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.27.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.2
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.0
+	- fabricloader 0.16.13
+	   \-- mixinextras 0.4.1
+	- java 21
+	- lithium 0.14.7+mc1.21.4
+	- minecraft 1.21.4
+	- mr_sleep 1-v.3.2.2
+	- silk-all 1.11.0
+	   |-- silk-commands 1.11.0
+	   |-- silk-core 1.11.0
+	   |-- silk-game 1.11.0
+	   |-- silk-igui 1.11.0
+	   |-- silk-nbt 1.11.0
+	   |-- silk-network 1.11.0
+	   \-- silk-persistence 1.11.0
+	- veinminer 2.4.2
+	   |-- de_miraculixx_core_dev 2.4.2
+	   \-- fabric-permissions-api-v0 0.3.3
+[13:46:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/data/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[13:46:45] [main/INFO]: Compatibility level set to JAVA_17
+[13:46:45] [main/INFO]: Compatibility level set to JAVA_18
+[13:46:45] [main/INFO]: Compatibility level set to JAVA_21
+[13:46:46] [main/INFO]: Loaded configuration file for Lithium: 142 options available, 1 override(s) found
+[13:46:47] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[13:46:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13:46:59] [main/INFO]: Initializing Silk
+[13:46:59] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
+[13:47:00] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:47:01] [DefaultDispatcher-worker-3/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
+[13:47:06] [main/INFO]: Loaded 1370 recipes
+[13:47:06] [main/INFO]: Loaded 1484 advancements
+[13:47:06] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 9.157 ms
+[13:47:06] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[13:47:06] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:47:06] [Server thread/INFO]: Loading properties
+[13:47:06] [Server thread/INFO]: Default game type: SURVIVAL
+[13:47:06] [Server thread/INFO]: Generating keypair
+[13:47:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:47:07] [Server thread/INFO]: Using epoll channel type
+[13:47:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:47:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:47:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:47:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:47:08] [Server thread/INFO]: Preparing level "world"
+[13:47:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:47:11] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:47:11] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:47:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:47:11] [Server thread/INFO]: Time elapsed: 1493 ms
+[13:47:11] [Server thread/INFO]: Done (3.792s)! For help, type "help"
+[13:48:11] [Server thread/INFO]: Server empty for 60 seconds, pausing

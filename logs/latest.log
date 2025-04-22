@@ -1,5 +1,5 @@
-[06:02:42] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
-[06:02:44] [main/INFO]: Loading 71 mods:
+[05:36:24] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
+[05:36:25] [main/INFO]: Loading 71 mods:
 	- chunky 1.4.27
 	- clumps 22.0.0.1
 	- fabric-api 0.119.2+1.21.4
@@ -81,432 +81,187 @@
 	- veinminer 2.4.2
 	   |-- de_miraculixx_core_dev 2.4.2
 	   \-- fabric-permissions-api-v0 0.3.3
-[06:02:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/data/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[06:02:46] [main/INFO]: Compatibility level set to JAVA_17
-[06:02:46] [main/INFO]: Compatibility level set to JAVA_18
-[06:02:46] [main/INFO]: Compatibility level set to JAVA_21
-[06:02:47] [main/INFO]: Loaded configuration file for Lithium: 142 options available, 1 override(s) found
-[06:02:49] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
-[06:02:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[06:03:11] [main/INFO]: Initializing Silk
-[06:03:11] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
-[06:03:12] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:03:14] [DefaultDispatcher-worker-1/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
-[06:03:19] [main/INFO]: Loaded 1370 recipes
-[06:03:19] [main/INFO]: Loaded 1484 advancements
-[06:03:20] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 4.719 ms
-[06:03:20] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
-[06:03:20] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[06:03:20] [Server thread/INFO]: Loading properties
-[06:03:20] [Server thread/INFO]: Default game type: SURVIVAL
-[06:03:20] [Server thread/INFO]: Generating keypair
-[06:03:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:03:20] [Server thread/INFO]: Using epoll channel type
-[06:03:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:03:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:03:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:03:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:03:20] [Server thread/INFO]: Preparing level "world"
-[06:03:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:03:23] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[06:03:23] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[06:03:23] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[06:03:23] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[06:03:24] [Worker-Main-7/INFO]: Preparing spawn area: 34%
-[06:03:24] [Server thread/INFO]: Time elapsed: 2362 ms
-[06:03:24] [Server thread/INFO]: Done (3.586s)! For help, type "help"
-[06:04:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[07:06:27] [Server thread/INFO]: Sudo_Uchuha[/172.18.0.1:47628] logged in with entity id 42 at (6.696301031386383, 102.0, 63.69060244206498)
-[07:06:27] [Server thread/INFO]: Sudo_Uchuha joined the game
-[07:07:08] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> im in
-[07:07:14] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> hello?
-[07:07:21] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> where are yall at?
-[07:07:43] [Server thread/INFO]: raven2004[/172.18.0.1:59682] logged in with entity id 389 at (-0.890498380752558, 96.0, 49.914741393320355)
-[07:07:43] [Server thread/INFO]: raven2004 joined the game
-[07:10:01] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> where should we go?
-[07:10:52] [Server thread/INFO]: Sudo_Uchuha lost connection: Disconnected
-[07:10:52] [Server thread/INFO]: Sudo_Uchuha left the game
-[07:10:52] [Server thread/INFO]: raven2004 lost connection: Disconnected
-[07:10:52] [Server thread/INFO]: raven2004 left the game
-[07:11:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[07:14:48] [Server thread/INFO]: Sudo_Uchuha[/172.18.0.1:33160] logged in with entity id 1096 at (-3.1606441911297205, 83.53584062504456, 82.44259562395554)
-[07:14:48] [Server thread/INFO]: Sudo_Uchuha joined the game
-[07:18:15] [Server thread/INFO]: Sudo_Uchuha has made the advancement [Sweet Dreams]
-[07:18:37] [Server thread/INFO]: GalexyBrain[/172.18.0.1:32876] logged in with entity id 2121 at (0.29428269174392546, 96.0, 49.57032876447843)
-[07:18:37] [Server thread/INFO]: GalexyBrain joined the game
-[07:19:00] [Server thread/INFO]: [Not Secure] <GalexyBrain> this farm is useless
-[07:19:03] [Server thread/INFO]: [Not Secure] <GalexyBrain> follow me
-[07:19:22] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> damn
-[07:19:28] [Server thread/INFO]: Sudo_Uchuha has made the advancement [We Need to Go Deeper]
-[07:19:36] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> wtf
-[07:20:20] [Server thread/INFO]: [Not Secure] <GalexyBrain> if you want food
-[07:20:30] [Server thread/INFO]: [Not Secure] <GalexyBrain> goo up the ladder and wait for 5 mins
-[07:20:33] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> how did yall do this
-[07:20:54] [Server thread/INFO]: [Not Secure] <GalexyBrain> this is the easiest farm
-[07:21:39] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> idk about minecraft meta
-[07:21:47] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i just play for fun tbh
-[07:21:51] [Server thread/INFO]: [Not Secure] <GalexyBrain> yaa you just have to wait here for like 5 to 10 mins
-[07:22:07] [Server thread/INFO]: [Not Secure] <GalexyBrain> bruh chill we will take care of all the nerd stuff
-[07:22:26] [Server thread/INFO]: [Not Secure] <GalexyBrain> do you have the mod pack i gave?
-[07:22:47] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> whatever you asked me to download first?
-[07:22:53] [Server thread/INFO]: [Not Secure] <GalexyBrain> yes
-[07:22:54] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> obviously
-[07:23:01] [Server thread/INFO]: [Not Secure] <GalexyBrain> then press f4
-[07:23:15] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> damn
-[07:23:21] [Server thread/INFO]: [Not Secure] <GalexyBrain> yee free cam
-[07:23:33] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> how should i now move the camera down now?
-[07:23:36] [Server thread/INFO]: [Not Secure] <GalexyBrain> you can see how the farm works
-[07:23:39] [Server thread/INFO]: [Not Secure] <GalexyBrain> shift for down
-[07:23:42] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> nvm figured out
-[07:23:43] [Server thread/INFO]: [Not Secure] <GalexyBrain> space for up
-[07:24:34] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> anyway, what ive wanted to ask is
-[07:24:53] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> are yall intrested in project zomboid?
-[07:25:14] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i and shamanth have already started playing it
-[07:25:48] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> and i thought we could get some help in expanding our base in that game
-[07:26:16] [Server thread/INFO]: [Not Secure] <GalexyBrain> sure bro
-[07:26:26] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> nice
-[07:26:43] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ill ask shamanth that your intrested in the game too
-[07:26:54] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> anyway, where is others?
-[07:26:57] [Server thread/INFO]: [Not Secure] <GalexyBrain> tell anubhav as well
-[07:27:04] [Server thread/INFO]: [Not Secure] <GalexyBrain> idk where ulli is
-[07:27:09] [Server thread/INFO]: [Not Secure] <GalexyBrain> anubhav went to eat
-[07:27:18] [Server thread/INFO]: [Not Secure] <GalexyBrain> anyways now ill also go to eat and come
-[07:27:24] [Server thread/INFO]: [Not Secure] <GalexyBrain> the server will be on
-[07:27:38] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i need to fetch some iron
-[07:27:50] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> for swords
-[07:27:55] [Server thread/INFO]: [Not Secure] <GalexyBrain> Also can you make an enchantment table with max enchants by the time i come
-[07:27:59] [Server thread/INFO]: [Not Secure] <GalexyBrain> there is iron in the base
-[07:28:04] [Server thread/INFO]: [Not Secure] <GalexyBrain> just take that
-[07:28:23] [Server thread/INFO]: [Not Secure] <GalexyBrain> ig this is enough afk for a while
-[07:28:31] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> should i spam bookshelves near the enchanting table?
-[07:28:46] [Server thread/INFO]: [Not Secure] <GalexyBrain> naa just search for max enchants in youtube
-[07:28:58] [Server thread/INFO]: [Not Secure] <GalexyBrain> there is a specific arrangement for it
-[07:29:00] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> idk its been a really long time since i played mc
-[07:29:09] [Server thread/INFO]: [Not Secure] <GalexyBrain> yaa that still remains same
-[07:29:35] [Server thread/INFO]: Fenwood[/172.18.0.1:44800] logged in with entity id 3830 at (-1.5, 96.0, 50.5)
-[07:29:35] [Server thread/INFO]: Fenwood joined the game
-[07:29:58] [Server thread/INFO]: [Not Secure] <GalexyBrain> Anubhav help sudhanva with getting books for enchantment table
-[07:30:15] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> oh crap, i forgot to collect leather
-[07:30:18] [Server thread/INFO]: [Not Secure] <Fenwood> what tf did i miss
-[07:30:32] [Server thread/INFO]: [Not Secure] <GalexyBrain> where are you
-[07:30:33] [Server thread/INFO]: [Not Secure] <Fenwood> when did we get an enchantment table?
-[07:31:00] [Server thread/INFO]: Fenwood has made the advancement [We Need to Go Deeper]
-[07:31:14] [Server thread/INFO]: [Not Secure] <Fenwood> whattf
-[07:31:17] [Server thread/INFO]: [Not Secure] <GalexyBrain> follow me
-[07:32:24] [Server thread/INFO]: [Not Secure] <GalexyBrain> infinite food
-[07:32:35] [Server thread/INFO]: [Not Secure] <GalexyBrain> just dont touch anything
-[07:32:41] [Server thread/INFO]: [Not Secure] <GalexyBrain> thats the AFK platform
-[07:32:51] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> can we just join vc?
-[07:32:56] [Server thread/INFO]: [Not Secure] <GalexyBrain> if you want food go up there and wait for 10 mins
-[07:32:59] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> its tiring to type
-[07:33:08] [Server thread/INFO]: [Not Secure] <GalexyBrain> ok now got help sudhanva get books
-[07:33:15] [Server thread/INFO]: [Not Secure] <GalexyBrain> ima go eat lunch
-[07:34:30] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ok im going to find sugarcane for paper
-[07:34:44] [Server thread/INFO]: [Not Secure] <GalexyBrain> cool
-[07:34:51] [Server thread/INFO]: [Not Secure] <GalexyBrain> bye ill come after lunch
-[07:34:53] [Server thread/INFO]: GalexyBrain lost connection: Disconnected
-[07:34:53] [Server thread/INFO]: GalexyBrain left the game
-[07:36:52] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> we need to search for sugarcane
-[07:36:59] [Server thread/INFO]: [Not Secure] <Fenwood> okie
-[07:46:10] [Server thread/INFO]: [Not Secure] <Fenwood> found sugarcane
-[07:46:19] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> bring it here
-[07:46:26] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> lets grow them
-[07:46:49] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> lets craft paper once we have sufficient of them
-[07:52:59] [Server thread/INFO]: Sudo_Uchuha has made the advancement [Diamonds!]
-[07:53:06] [Server thread/INFO]: Sudo_Uchuha has made the advancement [Ice Bucket Challenge]
-[07:55:52] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> enchantment table crafted
-[07:56:05] [Server thread/INFO]: [Not Secure] <Fenwood> bruh im lost :'(
-[07:56:16] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> what XD?
-[07:56:46] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> can i /tp you?
-[07:56:55] [Server thread/INFO]: Fenwood has made the advancement [Best Friends Forever]
-[07:57:00] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> idk if i have the admin privelage to do that
-[07:57:20] [Server thread/INFO]: [Not Secure] <Fenwood> text your position
-[07:57:46] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> 49, 102, 49
-[07:59:20] [Server thread/INFO]: Fenwood lost connection: Disconnected
-[07:59:20] [Server thread/INFO]: Fenwood left the game
-[07:59:23] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> setup a beacon or something
-[08:01:04] [Server thread/WARN]: Sudo_Uchuha moved wrongly!
-[08:01:05] [Server thread/INFO]: Sudo_Uchuha fell from a high place
-[08:08:07] [Server thread/INFO]: raven2004[/172.18.0.1:32904] logged in with entity id 24559 at (-123.34977833880245, 80.0, 155.2783675395868)
-[08:08:07] [Server thread/INFO]: raven2004 joined the game
-[08:08:37] [Server thread/INFO]: raven2004 lost connection: Timed out
-[08:08:37] [Server thread/INFO]: raven2004 left the game
-[08:08:37] [Server thread/WARN]: handleDisconnection() called twice
-[08:09:10] [Server thread/INFO]: raven2004[/172.18.0.1:56174] logged in with entity id 24941 at (-103.54423001751549, 88.0, 137.30000001192093)
-[08:09:10] [Server thread/INFO]: raven2004 joined the game
-[08:10:27] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> no armour?
-[08:10:52] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> follow me
-[08:11:09] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> look at the shit thejus and others doen while i was away
-[08:11:42] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> follow me
-[08:18:59] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i need to eat. take care ulli
-[08:19:32] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> also, can you craft enough books and paper? ill leave the leather in the food chest
-[08:19:39] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> outside in the farm
-[08:20:28] [Server thread/INFO]: Sudo_Uchuha lost connection: Disconnected
-[08:20:28] [Server thread/INFO]: Sudo_Uchuha left the game
-[08:22:11] [Server thread/INFO]: raven2004 lost connection: Timed out
-[08:22:11] [Server thread/INFO]: raven2004 left the game
-[08:23:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[08:25:55] [Server thread/INFO]: GalexyBrain[/172.18.0.1:53524] logged in with entity id 29564 at (15.561587711184744, 84.0, 48.1373603566523)
-[08:25:55] [Server thread/INFO]: GalexyBrain joined the game
-[08:33:18] [Server thread/INFO]: Fenwood[/172.18.0.1:44830] logged in with entity id 31571 at (351.3332694351146, 75.0, 855.6595000401861)
-[08:33:18] [Server thread/INFO]: Fenwood joined the game
-[08:34:29] [Server thread/INFO]: [Not Secure] <GalexyBrain> anubhav sleep
-[08:34:58] [Server thread/INFO]: [Not Secure] <Fenwood> me no have bed
-[08:35:09] [Server thread/INFO]: Fenwood lost connection: Disconnected
-[08:35:09] [Server thread/INFO]: Fenwood left the game
-[08:35:17] [Server thread/INFO]: [GalexyBrain: Set the time to 1000]
-[08:35:54] [Server thread/INFO]: Fenwood[/172.18.0.1:35846] logged in with entity id 32853 at (337.2268063350192, 75.0, 852.4926015988278)
-[08:35:54] [Server thread/INFO]: Fenwood joined the game
-[08:36:33] [Server thread/INFO]: [Not Secure] <Fenwood> thejus text your coordinates
-[08:36:46] [Server thread/INFO]: [Not Secure] <GalexyBrain> -530, -509
-[08:37:01] [Server thread/INFO]: [Not Secure] <Fenwood> text coordinates of home base
-[08:37:13] [Server thread/INFO]: [Not Secure] <GalexyBrain> xaero-waypoint:Temp base:T:1:96:50:5:false:0:Internal-overworld-waypoints
-[08:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[08:40:47] [Server thread/INFO]: Fenwood has made the advancement [Not Today, Thank You]
-[08:41:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@f0a983d[id=df17ac9f-c69b-372f-835d-bf18ae3b9bc4,name=raven2004,properties={}] lost connection: Timed out
-[08:42:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a11a4c6[id=df17ac9f-c69b-372f-835d-bf18ae3b9bc4,name=raven2004,properties={}] lost connection: Timed out
-[08:44:29] [Server thread/INFO]: [Not Secure] <GalexyBrain> test
-[08:46:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[08:47:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
-[08:52:57] [Server thread/INFO]: [Not Secure] <Fenwood> thejus did sudhanva create books?
-[08:53:03] [Server thread/INFO]: [Not Secure] <GalexyBrain> idk
-[08:53:09] [Server thread/INFO]: [Not Secure] <GalexyBrain> make some
-[08:53:18] [Server thread/INFO]: [Not Secure] <GalexyBrain> we need quite a few of them anyway
-[08:53:29] [Server thread/INFO]: [Not Secure] <Fenwood> kk
-[09:02:58] [Server thread/INFO]: [GalexyBrain: Teleported GalexyBrain to 1.500000, 96.500000, 50.500000]
-[09:03:21] [Server thread/INFO]: [Not Secure] <GalexyBrain> nigger where are you
-[09:03:50] [Server thread/INFO]: [Not Secure] <Fenwood> home base
-[09:04:44] [Server thread/INFO]: [Not Secure] <GalexyBrain> you have leather?
-[09:05:00] [Server thread/INFO]: [Not Secure] <Fenwood> its in the chest besides the frm
-[09:05:08] [Server thread/INFO]: [Not Secure] <Fenwood> farm*
-[09:05:24] [Server thread/INFO]: [GalexyBrain: Teleported GalexyBrain to 241.500000, 128.500000, 31.500000]
-[09:07:10] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[09:09:39] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[09:12:40] [Server thread/INFO]: [Not Secure] <Fenwood> thejus w u at
-[09:12:45] [Server thread/INFO]: [Not Secure] <GalexyBrain> farm
-[09:13:01] [Server thread/INFO]: [Not Secure] <Fenwood> what farm nigg?
-[09:13:06] [Server thread/INFO]: [Not Secure] <GalexyBrain> food farm
-[09:13:08] [Server thread/INFO]: [Not Secure] <GalexyBrain> what else
-[09:13:18] [Server thread/INFO]: [Not Secure] <Fenwood> coordinates?
-[09:13:31] [Server thread/INFO]: [Not Secure] <GalexyBrain> xaero-waypoint:Food:F:241:128:31:13:false:0:Internal-the-nether-waypoints
-[09:15:13] [Server thread/INFO]: [Not Secure] <GalexyBrain> we need obsidian
-[09:15:17] [Server thread/INFO]: [Not Secure] <GalexyBrain> can you go get some
-[09:15:30] [Server thread/INFO]: [Not Secure] <GalexyBrain> nvm we have
-[09:16:10] [Server thread/INFO]: [Not Secure] <GalexyBrain> wtf
-[09:16:15] [Server thread/INFO]: [Not Secure] <Fenwood> what?
-[09:16:16] [Server thread/INFO]: [Not Secure] <GalexyBrain> there is one here already?
-[09:16:38] [Server thread/INFO]: [Not Secure] <Fenwood> sudhanva made one
-[09:18:52] [Server thread/INFO]: [Not Secure] <GalexyBrain> anubhav we need more book shelves
-[09:19:28] [Server thread/INFO]: Villager class_1646['Cartographer'/56357, l='ServerLevel[world]', x=64.54, y=112.00, z=290.43] died, message: 'Cartographer was slain by Zombie'
-[09:22:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=106, z=13} class_2338{x=16, y=103, z=14}
-[09:22:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=106, z=13} class_2338{x=15, y=103, z=13}
-[09:22:16] [Server thread/INFO]: [Not Secure] <GalexyBrain> AHAHAHHAHAHA
-[09:22:27] [Server thread/INFO]: [Not Secure] <Fenwood> thejus u piece of poop
-[09:23:03] [Server thread/INFO]: [Not Secure] <GalexyBrain> now we need exp farm
-[09:23:14] [Server thread/INFO]: [Not Secure] <Fenwood> look at the chest
-[09:24:42] [Server thread/INFO]: [Not Secure] <Fenwood> i got an efficiency 5 axe
-[09:25:19] [Server thread/INFO]: [Not Secure] <Fenwood> ima head out now
-[09:25:24] [Server thread/INFO]: [Not Secure] <Fenwood> byeee
-[09:25:25] [Server thread/INFO]: Fenwood lost connection: Disconnected
-[09:25:25] [Server thread/INFO]: Fenwood left the game
-[09:33:38] [Server thread/INFO]: [GalexyBrain: Set the target tick rate to 100.0 per second]
-[09:33:48] [Server thread/INFO]: [GalexyBrain: Set the target tick rate to 1000.0 per second]
-[09:33:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1020ms or 1020 ticks behind
-[09:33:54] [Server thread/INFO]: [GalexyBrain: Set the target tick rate to 20.0 per second]
-[09:39:29] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[09:40:55] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[09:47:40] [Server thread/INFO]: GalexyBrain lost connection: Disconnected
-[09:47:40] [Server thread/INFO]: GalexyBrain left the game
-[09:47:50] [Server thread/INFO]: GalexyBrain[/172.18.0.1:43212] logged in with entity id 62132 at (13.489226200603126, 84.0, 41.60912039985653)
-[09:47:50] [Server thread/INFO]: GalexyBrain joined the game
-[09:48:04] [Server thread/INFO]: GalexyBrain lost connection: Disconnected
-[09:48:04] [Server thread/INFO]: GalexyBrain left the game
-[09:49:00] [Server thread/INFO]: GalexyBrain[/172.18.0.1:49568] logged in with entity id 62275 at (13.489226200603126, 84.0, 41.60912039985653)
-[09:49:00] [Server thread/INFO]: GalexyBrain joined the game
-[09:51:01] [Server thread/INFO]: GalexyBrain has made the advancement [Enchanter]
-[09:51:46] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[09:51:58] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[09:52:17] [Server thread/INFO]: [GalexyBrain: Gave 1 [Anvil] to GalexyBrain]
-[09:52:49] [Server thread/INFO]: GalexyBrain lost connection: Disconnected
-[09:52:49] [Server thread/INFO]: GalexyBrain left the game
-[09:53:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[09:57:09] [Server thread/INFO]: GalexyBrain[/172.18.0.1:36390] logged in with entity id 62904 at (-0.6358329859242979, 96.0, 50.376167583254585)
-[09:57:09] [Server thread/INFO]: GalexyBrain joined the game
-[09:59:06] [Server thread/INFO]: [GalexyBrain: Gave 64 [Bottle o' Enchanting] to GalexyBrain]
-[10:02:08] [Server thread/INFO]: [GalexyBrain: Gave 64 [Bottle o' Enchanting] to GalexyBrain]
-[10:05:37] [Server thread/INFO]: GalexyBrain lost connection: Disconnected
-[10:05:37] [Server thread/INFO]: GalexyBrain left the game
-[10:05:45] [Server thread/INFO]: GalexyBrain[/172.18.0.1:33586] logged in with entity id 64759 at (14.864950687594972, 84.0, 40.62912004966194)
-[10:05:45] [Server thread/INFO]: GalexyBrain joined the game
-[10:06:09] [Server thread/INFO]: Sudo_Uchuha[/172.18.0.1:56272] logged in with entity id 64903 at (-0.6642655598783139, 96.0, 49.544046161340596)
-[10:06:09] [Server thread/INFO]: Sudo_Uchuha joined the game
-[10:07:39] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[10:08:07] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[10:08:15] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[10:08:22] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[10:09:08] [Server thread/INFO]: [Not Secure] <GalexyBrain> lmao
-[10:09:10] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> nice
-[10:09:33] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> nether?
-[10:10:29] [Server thread/INFO]: [Not Secure] <GalexyBrain> bro now we need to make a exp farm
-[10:10:44] [Server thread/INFO]: [Not Secure] <GalexyBrain> i didnt explore it yet
-[10:10:45] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> idk how to do that?
-[10:10:57] [Server thread/INFO]: [Not Secure] <GalexyBrain> F
-[10:11:01] [Server thread/INFO]: [Not Secure] <GalexyBrain> youtube it
-[10:11:09] [Server thread/INFO]: [Not Secure] <GalexyBrain> ill find a good build
-[10:11:21] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ask satya
-[10:11:35] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> he made an xp farm once when we both were playing
-[10:17:02] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> stone
-[10:17:05] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> dw
-[10:25:04] [Server thread/INFO]: [Not Secure] <GalexyBrain> 26 -21 -74
-[10:26:47] [Server thread/INFO]: [Not Secure] <GalexyBrain> Yoo sudhanva can you help me
-[10:26:54] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> where?
-[10:26:59] [Server thread/INFO]: [Not Secure] <GalexyBrain> the coords i sent
-[10:27:04] [Server thread/INFO]: [Not Secure] <GalexyBrain> come to base
-[10:27:08] [Server thread/INFO]: [Not Secure] <GalexyBrain> and get tourches
-[10:27:17] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> gimme a sec
-[10:27:34] [Server thread/INFO]: [Not Secure] <GalexyBrain> A SHIT TON OF TORCHES
-[10:28:17] [Server thread/INFO]: [Not Secure] <GalexyBrain> how many do you have?
-[10:28:26] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> 61
-[10:28:35] [Server thread/INFO]: [Not Secure] <GalexyBrain> ok ig enough for now
-[10:28:53] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> shit im lagging
-[10:29:04] [Server thread/INFO]: [Not Secure] <GalexyBrain> F
-[10:29:15] [Server thread/INFO]: [Not Secure] <GalexyBrain> maybe cuz of rain
-[10:30:01] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> remember that bridge you made up there?
-[10:30:09] [Server thread/INFO]: [Not Secure] <GalexyBrain> where?
-[10:30:15] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i was decorating that
-[10:30:19] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> outside
-[10:30:25] [Server thread/INFO]: [Not Secure] <GalexyBrain> oo damn i didnt make it tho
-[10:30:32] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> oh ok
-[10:31:23] [Server thread/INFO]: [Not Secure] <GalexyBrain> you are on torch duty for now
-[10:31:31] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ok
-[10:31:43] [Server thread/INFO]: [Not Secure] <GalexyBrain> 26 -21 -74
-[10:32:10] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> but we are positive y cord tho
-[10:32:50] [Server thread/INFO]: [Not Secure] <GalexyBrain> come down
-[10:34:27] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> are we digging to bedrock now?
-[10:34:51] [Server thread/INFO]: [Not Secure] <GalexyBrain> naa we are digging to this
-[10:34:54] [Server thread/INFO]: [Not Secure] <GalexyBrain> spawner
-[10:35:02] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> that scared the absolute shit outta me XD
-[10:35:06] [Server thread/INFO]: [Not Secure] <GalexyBrain> LMAO
-[10:35:20] [Server thread/INFO]: [Not Secure] <GalexyBrain> now we need to make a 4x4 area around it
-[10:35:58] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> afk
-[10:36:03] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> gimme a sec
-[10:40:58] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> im back, what did i miss
-[10:41:03] [Server thread/INFO]: [Not Secure] <GalexyBrain> you have iron?
-[10:41:11] [Server thread/INFO]: [Not Secure] <GalexyBrain> i need like 3 pickaxes
-[10:41:14] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> only one
-[10:41:20] [Server thread/INFO]: [Not Secure] <GalexyBrain> give me coal
-[10:42:18] [Server thread/INFO]: [Not Secure] <GalexyBrain> Also can you make a way back? to the base
-[10:42:24] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ok
-[10:42:27] [Server thread/INFO]: [Not Secure] <GalexyBrain> cool
-[10:42:35] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ummm
-[10:42:40] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> nvm
-[10:42:58] [Server thread/INFO]: [Not Secure] <GalexyBrain> you have wood?
-[10:43:34] [Server thread/INFO]: [Not Secure] <GalexyBrain> btw when you are there get me some iron pls
-[10:45:00] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> istg im building a winding staircase here next time
-[10:45:18] [Server thread/INFO]: [Not Secure] <GalexyBrain> lol your wish
-[10:45:24] [Server thread/INFO]: [Not Secure] <GalexyBrain> wait dont make it to here
-[10:45:33] [Server thread/INFO]: [Not Secure] <GalexyBrain> make be there ill tell you some coords
-[10:45:38] [Server thread/INFO]: [Not Secure] <GalexyBrain> make it to there
-[10:45:42] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ok
-[10:47:56] [Server thread/INFO]: [Not Secure] <GalexyBrain> yaa make it to 26, -47, -68
-[10:48:03] [Server thread/INFO]: [Not Secure] <GalexyBrain> the staircase
-[10:49:12] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i got iron. do you need anything else?
-[10:49:18] [Server thread/INFO]: [Not Secure] <GalexyBrain> naa
-[10:49:21] [Server thread/INFO]: [Not Secure] <GalexyBrain> o yaa
-[10:49:23] [Server thread/INFO]: [Not Secure] <GalexyBrain> slabs
-[10:49:33] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> :|
-[10:49:45] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ok be right back
-[10:50:06] [Server thread/INFO]: [Not Secure] <GalexyBrain> O YAA ONE MORE WATER BUCKET
-[10:50:10] [Server thread/INFO]: [Not Secure] <GalexyBrain> pls get those
-[10:53:52] [Server thread/INFO]: [Not Secure] <GalexyBrain> iron pls
-[10:54:01] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i dropped it right?
-[10:54:05] [Server thread/INFO]: [Not Secure] <GalexyBrain> nvm
-[10:54:09] [Server thread/INFO]: [Not Secure] <GalexyBrain> i have it lol
-[10:54:55] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> you need slabs?
-[10:55:18] [Server thread/INFO]: [Not Secure] <GalexyBrain> naa you continue making a staircase to that place
-[10:59:42] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> wood?
-[11:00:07] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ummm
-[11:00:14] [Server thread/INFO]: [Not Secure] <GalexyBrain> yaa?
-[11:00:15] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i acciedently fell down
-[11:00:28] [Server thread/INFO]: [Not Secure] <GalexyBrain> lmao
-[11:00:40] [Server thread/INFO]: [Not Secure] <GalexyBrain> NOO DONT
-[11:00:47] [Server thread/INFO]: [Not Secure] <GalexyBrain> DONT COVER THE HOLE
-[11:00:55] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> shit
-[11:01:01] [Server thread/INFO]: [Not Secure] <GalexyBrain> thats where the mobs will fall to
-[11:01:10] [Server thread/INFO]: [Not Secure] <GalexyBrain> and dont put torches as well
-[11:01:26] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> how do i get up now
-[11:01:30] [Server thread/INFO]: [Not Secure] <GalexyBrain> use the water bucket trick
-[11:01:42] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i gave you all the water bucket
-[11:01:48] [Server thread/INFO]: [Not Secure] <GalexyBrain> just dropped one
-[11:01:52] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> got it
-[11:03:36] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> bruh i was about to fall in again
-[11:04:29] [Server thread/INFO]: [Not Secure] <GalexyBrain> can you make the staircase to that coords i have
-[11:04:36] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> im trying
-[11:05:18] [Server thread/INFO]: [Not Secure] <GalexyBrain> DO NOT COME IN HERE ONCE I REMOVE THE RORCHES
-[11:05:21] [Server thread/INFO]: [Not Secure] <GalexyBrain> TORCHES
-[11:05:25] [Server thread/INFO]: [Not Secure] <GalexyBrain> YOU WILL DIE
-[11:05:42] [Server thread/INFO]: [Not Secure] <GalexyBrain> bro cloes the holes up
-[11:06:49] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ummm
-[11:06:53] [Server thread/INFO]: [Not Secure] <GalexyBrain> dont touch this wall
-[11:07:09] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ig i should have moved the stairs a bit back :/
-[11:07:14] [Server thread/INFO]: [Not Secure] <GalexyBrain> F
-[11:07:32] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> wait i got an idea
-[11:10:55] [Server thread/INFO]: GalexyBrain has completed the challenge [It Spreads]
-[11:10:56] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> need help?
-[11:11:45] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[11:16:55] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[11:17:21] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[11:19:14] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[11:20:03] [Server thread/INFO]: [Not Secure] <GalexyBrain> yoo the farm is done
-[11:20:09] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> nice
-[11:20:14] [Server thread/INFO]: [Not Secure] <GalexyBrain> did you finish the path?
-[11:20:18] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> the stairway is not done yet
-[11:20:59] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[11:21:23] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[11:23:53] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[11:26:36] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[11:27:56] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[11:30:51] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[11:31:33] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[11:32:58] [Server thread/INFO]: [Not Secure] <GalexyBrain> Yoo sudhanva
-[11:33:01] [Server thread/INFO]: [Not Secure] <GalexyBrain> small change
-[11:33:04] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ?
-[11:33:18] [Server thread/INFO]: [Not Secure] <GalexyBrain> the coords are now 39 -37 -74
-[11:33:30] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[11:33:35] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> :|
-[11:33:36] [Server thread/INFO]: [Not Secure] <GalexyBrain> mb
-[11:33:53] [Server thread/INFO]: [Not Secure] <GalexyBrain> but the farm works perfectly
-[11:34:55] [Server thread/INFO]: [Not Secure] <GalexyBrain> ig you van come down and dig a straignt from the correct y level
-[11:34:59] [Server thread/INFO]: [Not Secure] <GalexyBrain> everything else is fine
-[11:35:08] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> ok
-[11:38:55] [Server thread/INFO]: [GalexyBrain: Set own game mode to Creative Mode]
-[11:39:23] [Server thread/INFO]: [GalexyBrain: Set own game mode to Survival Mode]
-[11:48:53] [Server thread/INFO]: GalexyBrain lost connection: Disconnected
-[11:48:53] [Server thread/INFO]: GalexyBrain left the game
-[11:49:49] [Server thread/INFO]: GalexyBrain[/172.18.0.1:60760] logged in with entity id 80017 at (27.30000001192093, -35.5, -73.50057490060209)
-[11:49:49] [Server thread/INFO]: GalexyBrain joined the game
-[11:49:58] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> finished the stairway
-[11:52:31] [Server thread/INFO]: GalexyBrain lost connection: Disconnected
-[11:52:31] [Server thread/INFO]: GalexyBrain left the game
-[11:56:59] [Server thread/INFO]: GalexyBrain[/172.18.0.1:36820] logged in with entity id 81322 at (36.55823663848236, -37.0, -73.29053429991109)
-[11:56:59] [Server thread/INFO]: GalexyBrain joined the game
-[11:57:23] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> check out the stairway, man
-[11:57:34] [Server thread/INFO]: [Not Secure] <GalexyBrain> where is it bro
-[11:57:43] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> same spot
-[11:58:15] [Server thread/INFO]: [Not Secure] <GalexyBrain> bro i am in 39 -37 -74
-[11:58:28] [Server thread/INFO]: [Not Secure] <GalexyBrain> Make the stairway to that cords
-[11:58:36] [Server thread/INFO]: [Not Secure] <GalexyBrain> extend it till there
-[11:58:40] [Server thread/INFO]: [Not Secure] <GalexyBrain> then i can come up
-[11:58:45] [Server thread/INFO]: [Not Secure] <GalexyBrain> i am stuck here till then lol
-[11:59:03] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> wait lemme see what i can do
-[12:03:17] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> can i put lights here?
-[12:03:24] [Server thread/INFO]: [Not Secure] <GalexyBrain> yee
-[12:03:56] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> wait why am i getting hit when i come near you?
-[12:04:23] [Server thread/INFO]: [Not Secure] <GalexyBrain> i had a farming mod on
-[12:24:59] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> broda, i finished da stairs
-[12:31:53] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> hey im leaving now. I built the stairwell
-[12:31:59] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> goobye
-[12:32:01] [Server thread/INFO]: Sudo_Uchuha lost connection: Disconnected
-[12:32:01] [Server thread/INFO]: Sudo_Uchuha left the game
-[12:38:42] [Server thread/INFO]: GalexyBrain lost connection: Disconnected
-[12:38:42] [Server thread/INFO]: GalexyBrain left the game
+[05:36:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/data/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[05:36:31] [main/INFO]: Compatibility level set to JAVA_17
+[05:36:31] [main/INFO]: Compatibility level set to JAVA_18
+[05:36:31] [main/INFO]: Compatibility level set to JAVA_21
+[05:36:32] [main/INFO]: Loaded configuration file for Lithium: 142 options available, 1 override(s) found
+[05:36:33] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[05:36:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[05:36:46] [main/INFO]: Initializing Silk
+[05:36:46] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
+[05:36:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:36:48] [DefaultDispatcher-worker-3/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
+[05:36:52] [main/INFO]: Loaded 1370 recipes
+[05:36:52] [main/INFO]: Loaded 1484 advancements
+[05:36:52] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.824 ms
+[05:36:52] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[05:36:52] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[05:36:52] [Server thread/INFO]: Loading properties
+[05:36:52] [Server thread/INFO]: Default game type: SURVIVAL
+[05:36:52] [Server thread/INFO]: Generating keypair
+[05:36:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:36:53] [Server thread/INFO]: Using epoll channel type
+[05:36:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:36:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:36:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:36:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:36:53] [Server thread/INFO]: Preparing level "world"
+[05:36:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:36:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:55] [Server thread/INFO]: Time elapsed: 1094 ms
+[05:36:55] [Server thread/INFO]: Done (2.031s)! For help, type "help"
+[05:37:41] [Server thread/INFO]: Fenwood[/172.18.0.1:58874] logged in with entity id 67 at (1.4671144041969995, 96.0, 50.30044536494668)
+[05:37:41] [Server thread/INFO]: Fenwood joined the game
+[05:40:03] [Server thread/INFO]: Sudo_Uchuha[/172.18.0.1:43222] logged in with entity id 665 at (-0.6845699400397571, 102.0, 60.23199912048986)
+[05:40:03] [Server thread/INFO]: Sudo_Uchuha joined the game
+[05:42:10] [Server thread/INFO]: GalexyBrain[/172.18.0.1:43906] logged in with entity id 1136 at (0.8101383866273704, 96.0, 49.62657061367579)
+[05:42:10] [Server thread/INFO]: GalexyBrain joined the game
+[05:43:00] [Server thread/INFO]: [Not Secure] <GalexyBrain> Anubav
+[05:43:06] [Server thread/INFO]: [Not Secure] <Fenwood> yes
+[05:43:10] [Server thread/INFO]: [Not Secure] <GalexyBrain> why u no pick calls
+[05:43:15] [Server thread/INFO]: [Not Secure] <GalexyBrain> mahesh
+[05:43:27] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> yo guys
+[05:43:32] [Server thread/INFO]: [Not Secure] <Fenwood> phone on silent
+[05:43:32] [Server thread/INFO]: [Not Secure] <GalexyBrain> sup
+[05:43:35] [Server thread/INFO]: [Not Secure] <GalexyBrain> AA ok
+[05:43:39] [Server thread/INFO]: [Not Secure] <GalexyBrain> SURE
+[05:43:46] [Server thread/INFO]: [Not Secure] <GalexyBrain> anyways wana go at 2?
+[05:43:51] [Server thread/INFO]: [Not Secure] <Fenwood> plus me on break rn]
+[05:44:09] [Server thread/INFO]: [Not Secure] <GalexyBrain> apparantly some company gives sponsors to any college that asks them
+[05:44:11] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> im farming xp wait up
+[05:44:18] [Server thread/INFO]: [Not Secure] <GalexyBrain> follow me
+[05:44:24] [Server thread/INFO]: [Not Secure] <Fenwood> what company
+[05:44:32] [Server thread/INFO]: [Not Secure] <GalexyBrain> Nandini?
+[05:44:39] [Server thread/INFO]: [Not Secure] <GalexyBrain> NIGGER FOLLOW ME
+[05:46:00] [Server thread/INFO]: [Not Secure] <GalexyBrain> back up
+[05:46:02] [Server thread/INFO]: [Not Secure] <GalexyBrain> bitch
+[05:47:44] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> lets all craft bows now
+[05:47:49] [Server thread/INFO]: [Not Secure] <GalexyBrain> ya
+[05:47:57] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> we have unlimited supply of arrows anyway
+[05:48:05] [Server thread/INFO]: [Not Secure] <GalexyBrain> where do we get string from
+[05:48:10] [Server thread/INFO]: [Not Secure] <Fenwood> thejus add a despeser or something so that the arrow and bow falls intochest
+[05:48:11] [Server thread/INFO]: [Not Secure] <GalexyBrain> hunt down spiders
+[05:48:25] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> search for spiders or create a spider farm
+[05:48:34] [Server thread/INFO]: [Not Secure] <Fenwood> okie
+[05:48:34] [Server thread/INFO]: [Not Secure] <GalexyBrain> Man too much work
+[05:51:47] [Server thread/INFO]: [Not Secure] <Fenwood> me going to search for villages
+[05:51:53] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> wait up
+[05:52:03] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> craft some beds
+[05:52:54] [Server thread/INFO]: [Not Secure] <GalexyBrain> dont sleep
+[05:52:58] [Server thread/INFO]: [Not Secure] <GalexyBrain> tonight we hunt
+[05:53:13] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> we were planning to search for village
+[05:53:24] [Server thread/INFO]: [Not Secure] <GalexyBrain> lets get bows first?
+[05:53:35] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> fine
+[05:53:42] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i need to get some food
+[05:53:49] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> going to hell, wait up
+[05:55:23] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> oh damn, which direction was that spawner again?
+[05:56:09] [Server thread/INFO]: [Not Secure] <Fenwood> idk'
+[05:56:20] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> nvm found it
+[05:59:05] [Server thread/INFO]: [Not Secure] <GalexyBrain> ok im sleeping
+[05:59:12] [Server thread/INFO]: [Not Secure] <GalexyBrain> hope you all have some string
+[05:59:21] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> 2 STRINGS
+[05:59:49] [Server thread/INFO]: [Not Secure] <GalexyBrain> there is 8 in the chest
+[05:59:55] [Server thread/INFO]: [Not Secure] <GalexyBrain> come take if anyone wants
+[06:00:59] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> where?
+[06:01:09] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> i cant see strings
+[06:01:10] [Server thread/INFO]: [Not Secure] <GalexyBrain> the chest with random shit in it
+[06:01:21] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> nvm found it
+[06:05:24] [Server thread/INFO]: Fenwood lost connection: Disconnected
+[06:05:24] [Server thread/INFO]: Fenwood left the game
+[06:05:55] [Server thread/INFO]: Fenwood[/172.18.0.1:39420] logged in with entity id 11281 at (495.5242045068311, 81.0, 953.3777990518073)
+[06:05:55] [Server thread/INFO]: Fenwood joined the game
+[06:09:07] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> bro should we start searching for a village?
+[06:09:12] [Server thread/INFO]: [Not Secure] <GalexyBrain> yaa
+[06:09:18] [Server thread/INFO]: [Not Secure] <Fenwood> found one more
+[06:09:27] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> wheres my homie Anubhav?
+[06:09:35] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> lets search for it
+[06:11:33] [Server thread/INFO]: [Not Secure] <Fenwood> sleep niggers
+[06:14:31] [Server thread/INFO]: [Not Secure] <GalexyBrain> guys we will make a emerald farm
+[06:14:36] [Server thread/INFO]: [Not Secure] <GalexyBrain> for that we need a few things.
+[06:14:48] [Server thread/INFO]: [Not Secure] <GalexyBrain> a villager, ominus bottles and some other stuff
+[06:14:54] [Server thread/INFO]: [Not Secure] <GalexyBrain> but try to find the first two
+[06:15:07] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> time to kidnap some villagers
+[06:15:47] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> Fent, found a village yet?
+[06:16:02] [Server thread/INFO]: [Not Secure] <Fenwood> found one near base and one more
+[06:16:16] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> cords?
+[06:16:45] [Server thread/INFO]: [Not Secure] <GalexyBrain> Yaa villages is ez to find but try to get the ominus bottle
+[06:16:51] [Server thread/INFO]: [Not Secure] <GalexyBrain> thats the hard part
+[06:17:04] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> any idea where it may spawn?
+[06:17:13] [Server thread/INFO]: [Not Secure] <Fenwood> 95 74 1420
+[06:22:49] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> village at 70 115 331
+[06:30:16] [Server thread/INFO]: Fenwood has made the advancement [Take Aim]
+[06:31:31] [Server thread/INFO]: Sudo_Uchuha has made the advancement [Best Friends Forever]
+[06:33:14] [Server thread/INFO]: Fenwood has made the advancement [Diamonds!]
+[06:33:27] [Server thread/INFO]: [Not Secure] <GalexyBrain> Anubhav small work for you
+[06:33:35] [Server thread/INFO]: [Not Secure] <GalexyBrain> go to magzine and change one background
+[06:33:54] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> we got a horsie companion
+[06:34:02] [Server thread/INFO]: [Not Secure] <GalexyBrain> page 21- Fading Embers
+[06:34:05] [Server thread/INFO]: [Not Secure] <GalexyBrain> change this pls
+[06:34:07] [Server thread/INFO]: [Not Secure] <GalexyBrain> oo damn
+[06:37:58] [Server thread/INFO]: Fenwood lost connection: Timed out
+[06:37:58] [Server thread/INFO]: Fenwood left the game
+[06:37:58] [Server thread/WARN]: handleDisconnection() called twice
+[06:38:09] [Server thread/INFO]: Fenwood[/172.18.0.1:37274] logged in with entity id 28760 at (402.7251458974265, -34.0, 1466.3449326027444)
+[06:38:09] [Server thread/INFO]: Fenwood joined the game
+[06:39:50] [Server thread/INFO]: Fenwood lost connection: Disconnected
+[06:39:50] [Server thread/INFO]: Fenwood left the game
+[06:49:01] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> Thejus, do you have a nametag?
+[06:49:05] [Server thread/INFO]: [Not Secure] <GalexyBrain> nope
+[06:49:20] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> it was there on the skeleton dungeon chest right?
+[07:00:30] [Server thread/INFO]: Fenwood[/172.18.0.1:37276] logged in with entity id 33777 at (376.13917287296726, -43.0, 1428.7052664158748)
+[07:00:30] [Server thread/INFO]: Fenwood joined the game
+[07:03:35] [Server thread/INFO]: Fenwood has made the advancement [The Parrots and the Bats]
+[07:04:37] [Server thread/INFO]: GalexyBrain has made the advancement [Take Aim]
+[07:06:51] [Server thread/INFO]: Fenwood was doomed to fall by Creeper
+[07:06:57] [Server thread/INFO]: [Not Secure] <GalexyBrain> F
+[07:07:08] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> creeper....aww man
+[07:09:42] [Server thread/INFO]: Fenwood was shot by Skeleton
+[07:09:59] [Server thread/INFO]: [Not Secure] <GalexyBrain> mann where are you ill help you get your stiff
+[07:10:02] [Server thread/INFO]: [Not Secure] <GalexyBrain> stuff
+[07:10:19] [Server thread/INFO]: [Not Secure] <Fenwood> 141 69 1340
+[07:10:23] [Server thread/INFO]: [Not Secure] <GalexyBrain> nvm
+[07:10:29] [Server thread/INFO]: [Not Secure] <GalexyBrain> too far
+[07:10:31] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> wait up
+[07:10:40] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> we have a horse tho
+[07:12:57] [Server thread/WARN]: GalexyBrain was kicked for floating too long!
+[07:12:57] [Server thread/INFO]: GalexyBrain lost connection: Flying is not enabled on this server
+[07:12:57] [Server thread/INFO]: GalexyBrain left the game
+[07:13:10] [Server thread/INFO]: GalexyBrain[/172.18.0.1:57452] logged in with entity id 41197 at (120.38698829609089, 137.0, 20.652006943162114)
+[07:13:10] [Server thread/INFO]: GalexyBrain joined the game
+[07:13:15] [Server thread/WARN]: GalexyBrain was kicked for floating too long!
+[07:13:15] [Server thread/INFO]: GalexyBrain lost connection: Flying is not enabled on this server
+[07:13:15] [Server thread/INFO]: GalexyBrain left the game
+[07:13:16] [Server thread/INFO]: Fenwood lost connection: Timed out
+[07:13:16] [Server thread/INFO]: Fenwood left the game
+[07:13:26] [Server thread/INFO]: GalexyBrain[/172.18.0.1:34744] logged in with entity id 41381 at (120.38698829609089, 137.0, 20.652006943162114)
+[07:13:26] [Server thread/INFO]: GalexyBrain joined the game
+[07:13:29] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> yo anubhav, you underground?
+[07:13:43] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> oh he left
+[07:13:53] [Server thread/INFO]: [Not Secure] <GalexyBrain> ya ig im having some network issues
+[07:14:03] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> same, im lagging
+[07:14:18] [Server thread/INFO]: Fenwood[/172.18.0.1:44922] logged in with entity id 41846 at (512.6426542354387, 4.0, 1585.9384670531417)
+[07:14:18] [Server thread/INFO]: Fenwood joined the game
+[07:14:50] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> Yo fent, you underground?
+[07:18:51] [Server thread/INFO]: GalexyBrain lost connection: Disconnected
+[07:18:51] [Server thread/INFO]: GalexyBrain left the game
+[07:23:57] [Server thread/INFO]: Fenwood lost connection: Disconnected
+[07:23:57] [Server thread/INFO]: Fenwood left the game
+[07:24:09] [Server thread/INFO]: Fenwood[/172.18.0.1:60964] logged in with entity id 46211 at (471.8177751234839, 71.16610926093821, 1318.2431173476054)
+[07:24:09] [Server thread/INFO]: Fenwood joined the game
+[07:26:59] [Server thread/INFO]: Sudo_Uchuha has made the advancement [The Parrots and the Bats]
+[07:28:13] [Server thread/INFO]: Sudo_Uchuha lost connection: Timed out
+[07:28:13] [Server thread/INFO]: Sudo_Uchuha left the game
+[07:28:15] [Server thread/INFO]: Fenwood lost connection: Disconnected
+[07:28:15] [Server thread/INFO]: Fenwood left the game
+[07:28:30] [Server thread/INFO]: Fenwood[/172.18.0.1:42638] logged in with entity id 49598 at (216.44022423027613, 78.17675927506424, 269.304107186304)
+[07:28:30] [Server thread/INFO]: Fenwood joined the game
+[07:28:33] [Server thread/INFO]: Sudo_Uchuha[/172.18.0.1:42644] logged in with entity id 49808 at (12.883339352436716, 102.0, 49.38909003838092)
+[07:28:33] [Server thread/INFO]: Sudo_Uchuha joined the game
+[07:29:50] [Server thread/INFO]: [Not Secure] <Sudo_Uchuha> cake behind you
+[07:33:09] [Server thread/INFO]: Fenwood lost connection: Disconnected
+[07:33:09] [Server thread/INFO]: Fenwood left the game
+[07:33:09] [Server thread/INFO]: Sudo_Uchuha lost connection: Disconnected
+[07:33:09] [Server thread/INFO]: Sudo_Uchuha left the game
+[07:34:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
